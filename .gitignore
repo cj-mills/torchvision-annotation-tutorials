@@ -3,6 +3,7 @@
 /notebooks/.ipynb_checkpoints/*
 /notebooks/**/.ipynb_checkpoints/
 /notebooks/**/*.ttf
+/notebooks/**/*.xml
 /notebooks/*.ttf
 /notebooks/*.jpg
 /notebooks/*.png
@@ -10,7 +11,7 @@
 /notebooks/__pycache__/*
 
 # Temporary
-/notebooks/cvat/*
+/notebooks/cvat/torchvision-cvat-keypoint-annotations.ipynb
 
 
 # Image file formats
