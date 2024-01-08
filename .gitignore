@@ -10,9 +10,6 @@
 /notebooks/*.onnx
 /notebooks/__pycache__/*
 
-# Temporary
-/notebooks/cvat/torchvision-cvat-keypoint-annotations.ipynb
-
 
 # Image file formats
 *.png
