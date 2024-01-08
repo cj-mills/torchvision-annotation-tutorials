@@ -1,0 +1,140 @@
+<?xml version="1.0" ?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>1</id>
+      <name>Image Annotation Task</name>
+      <size>28</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <labels>
+        <label>
+          <name>person</name>
+          <color>#00ff00</color>
+          <type>rectangle</type>
+        </label>
+      </labels>
+    </task>
+  </meta>
+  <image id="0" name="258421" width="1152" height="768">
+    <box label="person" xtl="340.2519836425781" ytl="466.943359375" xbr="418.9939880371094" ybr="777.34423828125" occluded="0"/>
+    <box label="person" xtl="386.076124567474" ytl="443.94463667820065" xbr="460.81660899653974" ybr="777.1626297577855" occluded="0"/>
+  </image>
+  <image id="1" name="3075367" width="768" height="1344">
+    <box label="person" xtl="413.31866455078125" ytl="41.2171630859375" xbr="919.8128051757812" ybr="763.16552734375" occluded="0"/>
+  </image>
+  <image id="2" name="3076319" width="1120" height="768">
+    <box label="person" xtl="335.30731201171875" ytl="151.749755859375" xbr="711.2194213867188" ybr="1117.489013671875" occluded="0"/>
+    <box label="person" xtl="8.10714285714289" ytl="131.87500000000003" xbr="404.2032880329769" ybr="1119.0" occluded="0"/>
+  </image>
+  <image id="3" name="3145551" width="768" height="1184">
+    <box label="person" xtl="658.6324462890625" ytl="281.2455139160156" xbr="687.085693359375" ybr="398.6059265136719" occluded="0"/>
+    <box label="person" xtl="642.0" ytl="289.8510638297872" xbr="669.6595744680851" ybr="398.8936170212766" occluded="0"/>
+  </image>
+  <image id="4" name="3176048" width="768" height="1152">
+    <box label="person" xtl="518.2313232421875" ytl="338.9653015136719" xbr="594.632080078125" ybr="466.0799865722656" occluded="0"/>
+    <box label="person" xtl="683.419689119171" ytl="356.47668393782385" xbr="638.860103626943" ybr="437.8238341968912" occluded="0"/>
+  </image>
+  <image id="5" name="459971" width="768" height="1152">
+    <box label="person" xtl="235.196044921875" ytl="38.553955078125" xbr="767.8829956054688" ybr="727.1555786132812" occluded="0"/>
+  </image>
+  <image id="6" name="897255" width="768" height="1152">
+    <box label="person" xtl="124.10214233398438" ytl="53.462432861328125" xbr="1146.8370361328125" ybr="762.73828125" occluded="0"/>
+  </image>
+  <image id="7" name="action-active-adult-2526885" width="768" height="1344">
+    <box label="person" xtl="872.74755859375" ytl="169.3001708984375" xbr="1068.3814697265625" ybr="711.127685546875" occluded="0"/>
+    <box label="person" xtl="523.8292682926831" ytl="103.8170731707317" xbr="742.7317073170733" ybr="734.3048780487804" occluded="0"/>
+    <box label="person" xtl="392.12195121951225" ytl="121.49999999999999" xbr="560.4146341463415" ybr="706.8658536585365" occluded="0"/>
+    <box label="person" xtl="276.26829268292687" ytl="287.9634146341463" xbr="390.29268292682934" ybr="662.3536585365853" occluded="0"/>
+    <box label="person" xtl="1118.3414634146343" ytl="421.5" xbr="1185.4146341463415" ybr="616.0121951219511" occluded="0"/>
+  </image>
+  <image id="8" name="activity-ball-basketball-1192054" width="768" height="992">
+    <box label="person" xtl="33.08953857421875" ytl="5.195556640625" xbr="528.4810791015625" ybr="764.2916259765625" occluded="0"/>
+  </image>
+  <image id="9" name="adult-american-football-athletes-1369501" width="768" height="1152">
+    <box label="person" xtl="593.5314331054688" ytl="144.64703369140625" xbr="1006.8113403320312" ybr="765.5597534179688" occluded="0"/>
+    <box label="person" xtl="196.89119170984458" ytl="95.33678756476684" xbr="605.1813471502591" ybr="766.3212435233161" occluded="0"/>
+  </image>
+  <image id="10" name="adult-architecture-blur-2226598" width="1120" height="768">
+    <box label="person" xtl="399.6310119628906" ytl="589.743408203125" xbr="574.8714599609375" ybr="1095.520263671875" occluded="0"/>
+    <box label="person" xtl="575.3494809688581" ytl="625.5709342560554" xbr="709.2595155709342" ybr="1040.795847750865" occluded="0"/>
+  </image>
+  <image id="11" name="adult-boy-enjoying-1164773" width="768" height="1120">
+    <box label="person" xtl="280.59429931640625" ytl="265.9696960449219" xbr="596.118896484375" ybr="764.780517578125" occluded="0"/>
+    <box label="person" xtl="570.9756097560976" ytl="99.54878048780486" xbr="891.7073170731707" ybr="765.4024390243901" occluded="0"/>
+  </image>
+  <image id="12" name="adult-couple-fun-1336409" width="768" height="1120">
+    <box label="person" xtl="556.1834106445312" ytl="318.0270080566406" xbr="851.0313110351562" ybr="701.3292236328125" occluded="0"/>
+    <box label="person" xtl="376.4634146341464" ytl="214.79268292682923" xbr="612.4390243902438" ybr="675.7682926829267" occluded="0"/>
+  </image>
+  <image id="13" name="adults-affection-attractive-2760688" width="1152" height="768">
+    <box label="person" xtl="27.119266055045955" ytl="303.06422018348627" xbr="390.42201834862385" ybr="1151.0" occluded="0"/>
+    <box label="person" xtl="268.4036697247707" ytl="247.10091743119267" xbr="703.8520107188715" ybr="1151.0" occluded="0"/>
+  </image>
+  <image id="14" name="alcoholic-beverage-bar-beer-1269028" width="768" height="1120">
+    <box label="person" xtl="191.3798828125" ytl="59.879913330078125" xbr="720.1648559570312" ybr="763.250732421875" occluded="0"/>
+    <box label="person" xtl="947.8048780487803" ytl="178.81707317073167" xbr="1119.0" ybr="607.1094957034976" occluded="0"/>
+    <box label="person" xtl="567.9268292682926" ytl="278.2073170731707" xbr="868.5365853658536" ybr="595.2804878048779" occluded="0"/>
+  </image>
+  <image id="15" name="architectural-design-architecture-asphalt-2445783" width="1152" height="768">
+    <box label="person" xtl="316.4543762207031" ytl="644.406494140625" xbr="399.6389465332031" ybr="912.8011474609375" occluded="0"/>
+  </image>
+  <image id="16" name="architecture-buildings-cars-1169374" width="1152" height="768">
+    <box label="person" xtl="332.6482238769531" ytl="791.6576538085938" xbr="370.0579528808594" ybr="884.3419799804688" occluded="0"/>
+  </image>
+  <image id="17" name="architecture-buildings-commerce-2308592" width="768" height="1152">
+    <box label="person" xtl="469.427734375" ytl="561.9767456054688" xbr="518.1922607421875" ybr="726.4597778320312" occluded="0"/>
+    <box label="person" xtl="521.2435233160622" ytl="563.7305699481866" xbr="570.4663212435233" ybr="729.5336787564767" occluded="0"/>
+  </image>
+  <image id="18" name="architecture-buildings-commuter-2516442" width="1024" height="768">
+    <box label="person" xtl="608.3485107421875" ytl="433.5299072265625" xbr="650.3304443359375" ybr="550.3612670898438" occluded="0"/>
+    <box label="person" xtl="41.093425605536325" ytl="414.1868512110726" xbr="74.65743944636678" ybr="537.0242214532872" occluded="0"/>
+    <box label="person" xtl="672.9273356401384" ytl="431.48788927335636" xbr="719.2941176470588" ybr="558.477508650519" occluded="0"/>
+    <box label="person" xtl="560.1245674740484" ytl="438.0622837370242" xbr="594.0346020761245" ybr="548.7889273356401" occluded="0"/>
+    <box label="person" xtl="533.1349480968858" ytl="446.3667820069204" xbr="562.2006920415224" ybr="546.3667820069204" occluded="0"/>
+    <box label="person" xtl="489.19031141868504" ytl="452.24913494809687" xbr="517.5640138408304" ybr="538.0622837370242" occluded="0"/>
+    <box label="person" xtl="460.81660899653974" ytl="452.94117647058823" xbr="488.49826989619373" ybr="539.1003460207612" occluded="0"/>
+    <box label="person" xtl="131.40484429065742" ytl="467.47404844290656" xbr="147.66782006920414" ybr="520.7612456747405" occluded="0"/>
+    <box label="person" xtl="316.5259515570934" ytl="391.6955017301038" xbr="343.86159169550166" ybr="430.44982698961934" occluded="0"/>
+  </image>
+  <image id="19" name="baby-bridge-carrying-1157393" width="768" height="1120">
+    <box label="person" xtl="562.950439453125" ytl="137.5341796875" xbr="785.5032958984375" ybr="765.30517578125" occluded="0"/>
+  </image>
+  <image id="20" name="bar-beer-celebration-3009788" width="768" height="1216">
+    <box label="person" xtl="670.41650390625" ytl="147.376953125" xbr="1088.8197021484375" ybr="760.0108642578125" occluded="0"/>
+    <box label="person" xtl="116.53658536585372" ytl="207.47560975609753" xbr="629.3414634146342" ybr="766.6219512195121" occluded="0"/>
+    <box label="person" xtl="250.68292682926835" ytl="1.378048780487799" xbr="455.5609756097561" ybr="225.15853658536582" occluded="0"/>
+    <box label="person" xtl="427.51219512195127" ytl="2.59756097560975" xbr="593.9756097560976" ybr="219.67073170731703" occluded="0"/>
+    <box label="person" xtl="647.6341463414634" ytl="2.59756097560975" xbr="817.7560975609756" ybr="137.96341463414632" occluded="0"/>
+    <box label="person" xtl="731.170731707317" ytl="0.7682926829268231" xbr="917.1463414634146" ybr="221.49999999999997" occluded="0"/>
+    <box label="person" xtl="1009.2195121951219" ytl="19.670731707317067" xbr="1116.5365853658536" ybr="262.3536585365854" occluded="0"/>
+  </image>
+  <image id="21" name="beach-child-daughter-1438511" width="768" height="1120">
+    <box label="person" xtl="393.214111328125" ytl="317.10064697265625" xbr="588.5502319335938" ybr="723.3473510742188" occluded="0"/>
+    <box label="person" xtl="578.9024390243902" ytl="351.3780487804878" xbr="692.9268292682926" ybr="697.1097560975609" occluded="0"/>
+  </image>
+  <image id="22" name="cellphone-festival-girl-1408983" width="768" height="1152">
+    <box label="person" xtl="119.5823974609375" ytl="97.06643676757812" xbr="886.0499877929688" ybr="763.5545654296875" occluded="0"/>
+  </image>
+  <image id="23" name="chair-indoors-man-2253869" width="1120" height="768">
+    <box label="person" xtl="456.1827392578125" ytl="537.3309936523438" xbr="636.5413818359375" ybr="897.8451538085938" occluded="0"/>
+    <box label="person" xtl="367.0449826989619" ytl="612.4221453287197" xbr="526.2145328719722" ybr="881.9723183391003" occluded="0"/>
+  </image>
+  <image id="24" name="fashion-girl-indoors-1428416" width="1152" height="768">
+    <box label="person" xtl="91.56175231933594" ytl="633.2857055664062" xbr="315.621826171875" ybr="1010.5994262695312" occluded="0"/>
+    <box label="person" xtl="260.4705882352941" ytl="426.9896193771626" xbr="448.35986159169545" ybr="1007.2664359861591" occluded="0"/>
+    <box label="person" xtl="432.09688581314873" ytl="403.11418685121106" xbr="624.1384083044982" ybr="1004.1522491349481" occluded="0"/>
+  </image>
+  <image id="25" name="men-people-2364389" width="768" height="1152">
+    <box label="person" xtl="493.02349853515625" ytl="2.42523193359375" xbr="1149.896240234375" ybr="765.514892578125" occluded="0"/>
+    <box label="person" xtl="1.000000000000071" ytl="163.57317073170728" xbr="677.219512195122" ybr="766.6219512195121" occluded="0"/>
+  </image>
+  <image id="26" name="adults-attractive-beautiful-1727660" width="768" height="928">
+    <box label="person" xtl="450.1688537597656" ytl="174.04931640625" xbr="925.5413818359375" ybr="765.6500244140625" occluded="0"/>
+    <box label="person" xtl="1.195121951219533" ytl="169.67073170731703" xbr="448.7560975609756" ybr="766.6219512195121" occluded="0"/>
+  </image>
+  <image id="27" name="balloon-launch-festival-flame-1426050" width="768" height="1152">
+    <box label="person" xtl="740.9563598632812" ytl="368.4273681640625" xbr="1088.41552734375" ybr="764.3656005859375" occluded="0"/>
+  </image>
+</annotations>
