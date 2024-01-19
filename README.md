@@ -31,3 +31,16 @@ This repository contains jupyter notebooks for my tutorials showing how to load 
 | Bounding Boxes        | [Jupyter Notebook](https://github.com/cj-mills/torchvision-annotation-tutorials/blob/main/notebooks/labelme/torchvision-labelme-bounding-box-annotations.ipynb) | [Open In Colab](https://colab.research.google.com/github/cj-mills/torchvision-annotation-tutorials/blob/main/notebooks/labelme/torchvision-labelme-bounding-box-annotations.ipynb) |
 | Keypoints             | [Jupyter Notebook](https://github.com/cj-mills/torchvision-annotation-tutorials/blob/main/notebooks/labelme/torchvision-labelme-keypoint-annotations.ipynb) | [Open In Colab](https://colab.research.google.com/github/cj-mills/torchvision-annotation-tutorials/blob/main/notebooks/labelme/torchvision-labelme-keypoint-annotations.ipynb) |
 | Segmentation Polygons | [Jupyter Notebook](https://github.com/cj-mills/torchvision-annotation-tutorials/blob/main/notebooks/labelme/torchvision-labelme-segmentation-annotations.ipynb) | [Open In Colab](https://colab.research.google.com/github/cj-mills/torchvision-annotation-tutorials/blob/main/notebooks/labelme/torchvision-labelme-segmentation-annotations.ipynb) |
+
+
+
+
+
+## Conversion
+
+### LabelMe to CVAT
+| Type                  | GitHub                                                       | Colab                                                        |
+| --------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Bounding Boxes        | [Jupyter Notebook](https://github.com/cj-mills/torchvision-annotation-tutorials/blob/main/notebooks/labelme/labelme-to-cvat-bounding-box-annotations.ipynb) | [Open In Colab](https://colab.research.google.com/github/cj-mills/torchvision-annotation-tutorials/blob/main/notebooks/labelme/labelme-to-cvat-bounding-box-annotations.ipynb) |
+| Keypoints             | [Jupyter Notebook](https://github.com/cj-mills/torchvision-annotation-tutorials/blob/main/notebooks/labelme/labelme-to-cvat-keypoint-annotations.ipynb) | [Open In Colab](https://colab.research.google.com/github/cj-mills/torchvision-annotation-tutorials/blob/main/notebooks/labelme/labelme-to-cvat-keypoint-annotations.ipynb) |
+| Segmentation Polygons | [Jupyter Notebook](https://github.com/cj-mills/torchvision-annotation-tutorials/blob/main/notebooks/labelme/labelme-to-cvat-segmentation-annotations.ipynb) | [Open In Colab](https://colab.research.google.com/github/cj-mills/torchvision-annotation-tutorials/blob/main/notebooks/labelme/labelme-to-cvat-segmentation-annotations.ipynb) |
