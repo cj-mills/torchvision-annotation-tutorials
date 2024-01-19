@@ -9,7 +9,8 @@
 /notebooks/*.png
 /notebooks/*.onnx
 /notebooks/__pycache__/*
-
+/notebooks/**/Datasets/
+/notebooks/**/Archive/
 
 # Image file formats
 *.png
