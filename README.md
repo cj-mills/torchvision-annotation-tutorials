@@ -9,7 +9,7 @@ This repository contains jupyter notebooks for my tutorials showing how to load 
 
 | Type                  | GitHub                                                       | Colab                                                        |
 | --------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Bounding Boxes        | [Jupyter Notebook](https://github.com/cj-mills/torchvision-annotation-tutorials/blob/main/notebooks/coco/torchvision-coco-bounding-box-annotations.ipynb) | [Open In Colab](https://colab.research.google.com/github/cj-mills/torchvision-annotation-tutorials/blob/main/notebooks/coco/torchvision-coco-segmentation-annotations.ipynb) |
+| Bounding Boxes        | [Jupyter Notebook](https://github.com/cj-mills/torchvision-annotation-tutorials/blob/main/notebooks/coco/torchvision-coco-bounding-box-annotations.ipynb) | [Open In Colab](https://colab.research.google.com/github/cj-mills/torchvision-annotation-tutorials/blob/main/notebooks/coco/torchvision-coco-bounding-box-annotations.ipynb) |
 | Segmentation Polygons | [Jupyter Notebook](https://github.com/cj-mills/torchvision-annotation-tutorials/blob/main/notebooks/coco/torchvision-coco-segmentation-annotations.ipynb) | [Open In Colab](https://colab.research.google.com/github/cj-mills/torchvision-annotation-tutorials/blob/main/notebooks/coco/torchvision-coco-segmentation-annotations.ipynb) |
 
 
